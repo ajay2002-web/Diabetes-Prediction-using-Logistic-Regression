@@ -14,7 +14,7 @@
 
 ### V. Training the model with Train Data and testing it with Test Data
 
-### Vi. Checking the model accuracy with accuracy_score
+### VI. Checking the model accuracy with accuracy_score
 
 
 
