@@ -1,5 +1,5 @@
 # Diabetes-Prediction-using-Logistic-Regression
-## In this project, I have predicted diabetes disease using Logistic Regression model.Following are the librabries I have used 
+##  Logistic regression is a machine learning model used to perform binary classification. In this project, I have predicted diabetes disease using Logistic Regression model. Following are the librabries I have used 
 ### pandas, numpy, matplotlib.pyplot, seaborn and sklearn
 
 ## Following are the steps I performed in this project
